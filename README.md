@@ -1,4 +1,4 @@
-# Flux-pad
+# Nano_Flux
 I am absolutely horrible with github, sorry if there is something wrong with this repository. But anyways<br> this this is a hackpad i've worked on for like a week?<br>
 
 <b>FEATURES :</b>
