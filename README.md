@@ -14,7 +14,7 @@ I am absolutely horrible with github, sorry if there is something wrong with thi
 
 | FULLY ASEMBLED|       PCB     |SCHEMATIC   |
 | ------------- |:-------------:| ----------:|
-|  <img target='_blank'><img src='https://i.postimg.cc/rssQGbN3/image-2026-02-11-160446037.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">             | <img target='_blank'><img src='https://i.postimg.cc/ZRBWrxyP/Screenshot-2026-02-11-at-16-00-21.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">              |  <img target='_blank'><img src='https://i.postimg.cc/bNHHbWJj/Screenshot-2026-02-14-at-22-04-53.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">          |<br>
+|  <img target='_blank'><img src='https://i.postimg.cc/rssQGbN3/image-2026-02-11-160446037.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">             | <img target='_blank'><img src='https://i.postimg.cc/d1J3dHS9/Screenshot-2026-02-14-at-22-54-08.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">              |  <img target='_blank'><img src='https://i.postimg.cc/bNHHbWJj/Screenshot-2026-02-14-at-22-04-53.png' border='0' alt='Screenshot-2026-02-11-at-15-52-06' style="position: absolute; width: 340px;">          |<br>
 
 ----------------------------------- 
 <br>
